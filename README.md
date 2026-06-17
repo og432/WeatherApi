@@ -1,7 +1,7 @@
 # WeatherAPI
 
 ## Author
-Lokesh
+Naveen kumar
 
 ## About the Project
 WeatherAPI is a simple application that fetches and displays real-time weather information using a weather API.  
